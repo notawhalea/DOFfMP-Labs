@@ -20,6 +20,7 @@ SQLite:pencil: database is used to store notes.
 
 <img src="src/lab1.gif" width="500" height="800"/>
 **********
+
 **SECOND LAB**:two:
 
 **RSS-READER**:page_facing_up:
@@ -32,6 +33,7 @@ You can download a news feed both from a file and from the Internet.
 
 <img src="src/lab2.gif" width="500" height="800"/>
 **********
+
 I just relax and gained experience here.
 
 Still in progress? Convert to draft!:wink:
