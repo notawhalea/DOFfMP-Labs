@@ -34,6 +34,17 @@ You can download a news feed both from a file and from the Internet.
 <img src="src/lab2.gif" width="500" height="800"/>
 
 **********
+**THIRD LAB**:three:
+
+**QR-READER/GENERATOR**:calling:
+
+It is required to develop an application with a graphical interface that generates a QR-code based on the entered text and supports reading both Latin and Russian codes. In the case of a reader, the content, if it is a link or text, can either be opened in a browser or copied.
+
+**How it's look like**
+
+<img src="src/lab3.jpg" width="500" height="800"/>
+
+**********
 I just relax and gained experience here.
 
 Still in progress? Convert to draft!:wink:
