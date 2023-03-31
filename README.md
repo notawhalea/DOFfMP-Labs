@@ -45,6 +45,17 @@ It is required to develop an application with a graphical interface that generat
 <img src="src/lab3.jpg" width="500" height="800"/>
 
 **********
+**FOURTH LAB**:four:
+
+**AR-DETECTOR**🤳
+
+Using AR-detect objects in the camera, add the ability to attach an anchor in space.
+
+**How it's look like**
+
+<img src="src/lab4.jpg" width="500" height="800"/>
+
+**********
 I just relax and gained experience here.
 
 Still in progress? Convert to draft!:wink:
