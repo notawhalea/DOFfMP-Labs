@@ -66,17 +66,19 @@ Implement a game for a mobile platform, the principle of which is similar to one
 3. Nyan Cat: Lost In Space
 4. Super Meat Boy
 5. Temple Run
+
 Minimum requirements:
 - 5 difficulty levels
 - 3 types of obstacles/enemies
 - 3 types of bonuses/rewards
+
 Additional requirements:
 - registration/authorization
 - save results/achievements
 
 **How it's look like**
 
-<img src="src/lab5.jpg" width="500" height="800"/>
+<img src="src/lab5.jpg" width="1000" height="800"/>
 
 **********
 I just relax and gained experience here.
