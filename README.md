@@ -56,6 +56,29 @@ Using AR-detect objects in the camera, add the ability to attach an anchor in sp
 <img src="src/lab4.jpg" width="500" height="800"/>
 
 **********
+**FIFTH LAB**:five:
+
+**MOBILE GAME**📲
+
+Implement a game for a mobile platform, the principle of which is similar to one of the following games:
+1. Red Ball
+2. Super Mario
+3. Nyan Cat: Lost In Space
+4. Super Meat Boy
+5. Temple Run
+Minimum requirements:
+- 5 difficulty levels
+- 3 types of obstacles/enemies
+- 3 types of bonuses/rewards
+Additional requirements:
+- registration/authorization
+- save results/achievements
+
+**How it's look like**
+
+<img src="src/lab5.jpg" width="500" height="800"/>
+
+**********
 I just relax and gained experience here.
 
 Still in progress? Convert to draft!:wink:
