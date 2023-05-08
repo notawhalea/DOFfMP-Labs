@@ -1,6 +1,5 @@
 package com.pelikh.games;
 
-
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -16,7 +15,6 @@ import android.view.SurfaceView;
 import android.view.View;
 import android.widget.Button;
 import android.widget.RelativeLayout;
-
 import androidx.annotation.NonNull;
 
 import com.pelikh.games.gamepanel.GameOver;
@@ -26,7 +24,6 @@ import com.pelikh.games.graphics.Animator;
 import com.pelikh.games.graphics.SpriteBitmap;
 import com.pelikh.games.map.BlockType;
 import com.pelikh.games.map.DynamicMapObject;
-
 import com.pelikh.games.object.Circle;
 import com.pelikh.games.object.Bat;
 import com.pelikh.games.object.Mag;

@@ -11,6 +11,8 @@ public class Enemy extends Circle {
     private static final double SPAWNS_PER_SECOND = SPAWNS_PER_MINUTE / 60.0;
     private static final double UPDATES_PER_SPAWN = Gameloop.MAX_UPS / SPAWNS_PER_SECOND;
     private static double updatesUntilNextSpawn = UPDATES_PER_SPAWN;
+    //Represents a player in matchmaking. When starting a matchmaking request, a player has a player ID, attributes, and may have latency data. 
+    //Team information is added after a match has been successfully completed.
     private final Player player;
 
     public Enemy(Context context, Player player, double positionX, double positionY, double radius) {
